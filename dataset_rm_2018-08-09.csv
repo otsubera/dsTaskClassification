@@ -1,0 +1,1001 @@
+utc_time,hash_uri,country,platform,channel,is_buyer
+2018-08-09 00:00:04,17f6965d9ce3c92ccf95b739046c28b0,United States,Windows,Direct,0
+2018-08-09 00:00:04,53ef61cbc4781542540ae609a6c748c6,United States,Mac,Direct,1
+2018-08-09 00:00:22,cab71ea19b064413784b171200fbce70,United States,Chrome OS,Direct,0
+2018-08-09 00:01:05,913c8d371ff4db47fc3f26f724e390d8,United States,iOS,Direct,1
+2018-08-09 00:01:10,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,1
+2018-08-09 00:01:16,8fd4015b4cb098ccd4d58d26691ab192,Mexico,iOS,Direct,0
+2018-08-09 00:01:43,755ea2a2a36667f8f5d8d44bc80a401c,United States,Linux,Direct,0
+2018-08-09 00:03:14,93665edecbb43a2c17777f64b4339c74,United States,Windows,Direct,1
+2018-08-09 00:03:23,130409c02203abd477b4025876f21efc,United States,Android,Direct,0
+2018-08-09 00:03:31,850fbd1f5d7930fa29b5d9238c987e91,United States,Mac,Direct,1
+2018-08-09 00:03:38,90efab1fe6e411601e1abb188d08d16b,United States,Mac,Direct,0
+2018-08-09 00:03:49,994359af0586eb44b1be4d8cbd117abe,United States,Mac,Direct,0
+2018-08-09 00:03:49,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,0
+2018-08-09 00:03:51,dbcf5834deb5c67933ed6069f4e924a3,United States,Mac,Direct,1
+2018-08-09 00:04:06,994359af0586eb44b1be4d8cbd117abe,United States,Mac,Direct,0
+2018-08-09 00:04:12,dbcf5834deb5c67933ed6069f4e924a3,United States,Mac,Direct,0
+2018-08-09 00:04:14,afb7ce92e1cd4b4cba3355407b883d37,United States,Windows,Direct,1
+2018-08-09 00:04:22,b30d775bd0da866b909ecb3d8a98f557,United States,Android,Direct,0
+2018-08-09 00:04:38,613f65a4defe7983152b032066485a7b,United States,Linux,Direct,0
+2018-08-09 00:04:52,6482dcaa1449c2942b43131a330d6cf4,United States,Mac,Direct,0
+2018-08-09 00:04:56,b682a46808255b4d86a663d3cb25fee6,United States,Mac,Direct,0
+2018-08-09 00:05:15,994359af0586eb44b1be4d8cbd117abe,United States,Mac,Direct,0
+2018-08-09 00:05:44,fea36fa9cddda8a757fa68581d130e7a,United States,iOS,Direct,0
+2018-08-09 00:05:46,556365f9c7b8bcd3164f124f11e342ee,United States,Windows,Direct,0
+2018-08-09 00:05:54,7b3a21a33973a2a21dea68b8629a4cf7,Canada,Windows,Direct,1
+2018-08-09 00:05:54,913c8d371ff4db47fc3f26f724e390d8,United States,Windows,Direct,0
+2018-08-09 00:06:30,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:06:31,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:06:36,613f65a4defe7983152b032066485a7b,United States,Linux,Direct,0
+2018-08-09 00:06:52,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,0
+2018-08-09 00:06:56,913c8d371ff4db47fc3f26f724e390d8,United States,Windows,Direct,0
+2018-08-09 00:07:48,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Linux,Direct,0
+2018-08-09 00:08:10,f260a376efa5b846ba68475cee813479,United States,iOS,Direct,1
+2018-08-09 00:08:15,2520386ec60d873df207df77538f8a4c,United States,Mac,Direct,0
+2018-08-09 00:08:23,7a5ade000d3414aaae233156778e9398,United States,iOS,Direct,0
+2018-08-09 00:08:24,538fc5a828c50123d9648cb597a87862,United States,Android,Direct,0
+2018-08-09 00:08:48,bd54f9ec0f0cdb9394eedd19f43a6bc6,United States,iOS,Direct,0
+2018-08-09 00:09:06,1c86379ec9f25b72b745f18635a281f6,United States,Windows,Direct,0
+2018-08-09 00:09:15,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:10:10,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:10:17,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 00:10:21,2e04304721463b410320f42cc8c07d02,United States,Android,Direct,0
+2018-08-09 00:10:36,ea1635ac03abe6b48a937dca91ee6a00,Australia,Windows,Direct,0
+2018-08-09 00:10:40,d4b9958f21b74d52f3df5a1015c6deb5,United States,Windows,Direct,0
+2018-08-09 00:10:47,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:11:01,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:11:33,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:11:41,130409c02203abd477b4025876f21efc,United States,Windows,Direct,1
+2018-08-09 00:11:42,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:11:45,b62b0387d095e4e75f7015175bb1edc0,United States,Windows,Direct,1
+2018-08-09 00:11:51,c3dcbecc3dc8997e0ccb5a6e974c1c3e,United States,iOS,Direct,0
+2018-08-09 00:12:00,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 00:12:02,74e708ae946785a5f0b52f7c5941f5a8,United States,Windows,Direct,1
+2018-08-09 00:12:07,5851194af2654fe050c5e0cce34b731c,United States,Linux,Direct,0
+2018-08-09 00:12:31,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:12:40,c32b2eb712baf2dd4f1e8e9d7332b905,United States,iOS,Direct,0
+2018-08-09 00:12:44,6dd1ae9ff993bb0d9ffbbb342a4a1c81,United States,iOS,Direct,1
+2018-08-09 00:12:58,7b3a21a33973a2a21dea68b8629a4cf7,United States,Windows,Direct,0
+2018-08-09 00:13:01,5aebf912408685d60b49e90fc8c53343,Australia,Android,Direct,1
+2018-08-09 00:13:16,8a875e2f03e6ebc765f26dac3c5d627e,United States,iOS,Direct,1
+2018-08-09 00:13:22,9e4d0a059d7f4d95128f0d95830fc89e,United States,Windows,Direct,0
+2018-08-09 00:13:27,2b7a1f6b461a24627ac6e75625bdfabf,United States,Windows,Direct,0
+2018-08-09 00:13:33,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:14:08,74e708ae946785a5f0b52f7c5941f5a8,United States,Windows,Direct,0
+2018-08-09 00:14:17,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 00:14:24,b62b0387d095e4e75f7015175bb1edc0,United States,Windows,Direct,1
+2018-08-09 00:15:00,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,0
+2018-08-09 00:15:20,f39c2c1c9ae64992a6fba340485017d6,United States,Windows,Direct,0
+2018-08-09 00:15:37,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:15:42,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 00:16:02,95864664247daf0ccfb01a9c71d42b3d,United States,Mac,Direct,0
+2018-08-09 00:16:07,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:16:55,7c7b731244071b9328b4f9b8718a72d5,United States,Android,Direct,0
+2018-08-09 00:16:57,6fbaee4b74f1811b6d2beedc6b4b3924,United States,Windows,Direct,0
+2018-08-09 00:17:05,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,0
+2018-08-09 00:17:20,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,0
+2018-08-09 00:17:22,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:17:49,6dc83f1e6a373e036bbaed7240b2ab7e,United States,Windows,Direct,0
+2018-08-09 00:17:52,6dc83f1e6a373e036bbaed7240b2ab7e,United States,Windows,Direct,0
+2018-08-09 00:17:58,e7ccfddc6321f69a6cc6352590de14df,Thailand,Windows,Direct,1
+2018-08-09 00:18:00,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:18:10,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Linux,Direct,1
+2018-08-09 00:18:15,71bd74ee473867ae99fe16692acd2272,United States,iOS,Direct,1
+2018-08-09 00:18:16,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:18:34,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:18:37,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:18:45,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:18:49,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:18:59,556365f9c7b8bcd3164f124f11e342ee,United States,Windows,Direct,0
+2018-08-09 00:19:28,74e708ae946785a5f0b52f7c5941f5a8,United States,iOS,Direct,1
+2018-08-09 00:20:18,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 00:21:14,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,1
+2018-08-09 00:21:30,c3dcbecc3dc8997e0ccb5a6e974c1c3e,United States,Windows,Direct,1
+2018-08-09 00:21:44,ace52fb7fbf069332795f1dd085345a4,United States,Windows,Direct,0
+2018-08-09 00:22:03,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:22:08,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,1
+2018-08-09 00:22:14,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,1
+2018-08-09 00:22:18,6469e26317f16404e4892ed03e437858,United States,Windows,Direct,0
+2018-08-09 00:23:11,72d74f43e75fcf9c4978bccaddac7fe6,United States,iOS,Direct,1
+2018-08-09 00:23:41,421a307e454ecc516d475be3183edf86,United States,iOS,Direct,1
+2018-08-09 00:23:43,6b4625b3f111741141324132b7c8d630,United States,Android,Direct,0
+2018-08-09 00:24:25,473618e6b72b6d0e6dabdf15ce4ca1b2,United States,iOS,Direct,0
+2018-08-09 00:24:52,4410af8547ebda094d66c4d2928d28ac,United States,iOS,Direct,0
+2018-08-09 00:25:31,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,0
+2018-08-09 00:25:32,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:25:43,8fd4015b4cb098ccd4d58d26691ab192,United States,Android,Direct,0
+2018-08-09 00:25:47,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,1
+2018-08-09 00:26:10,e63f9924dbcaf518b22896beea6ac8c8,United States,Windows,Direct,0
+2018-08-09 00:26:45,8dbcaa956d049a99ffb64db0f73e0ba3,United States,Windows,Direct,0
+2018-08-09 00:27:03,7b3a21a33973a2a21dea68b8629a4cf7,United States,Mac,Direct,0
+2018-08-09 00:27:33,8ab337985dfc9e8d126e39a1b6a53b4d,United States,Mac,Direct,0
+2018-08-09 00:28:25,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:28:25,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:29:07,b47fc32c3970b004168ac50337e31176,United States,Android,Direct,0
+2018-08-09 00:29:38,b7086d37070c484c1b41fbc92328c6eb,United States,iOS,Direct,0
+2018-08-09 00:29:57,1979a15aa0107712753a2d6b9b22a255,United States,Windows,Direct,0
+2018-08-09 00:30:04,7f5d1a2a861fbc2ad2ea74e458c7efce,United States,Windows,Direct,0
+2018-08-09 00:30:23,efb4ff6195f274f535b2b54a1a46a40b,Australia,Windows,Direct,0
+2018-08-09 00:30:34,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 00:30:47,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 00:31:31,382dcc05430126b5616215652924bdb7,United States,Linux,Direct,0
+2018-08-09 00:32:17,b05a7f53713a50af26dfd620a6048223,United States,Mac,Direct,0
+2018-08-09 00:32:52,e1e9fc00dbe4d95962c7db80095fa9ca,United States,iOS,Direct,0
+2018-08-09 00:32:53,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:33:05,4a4c1fd51a8fd21d0b02143756d92324,United States,Mac,Direct,0
+2018-08-09 00:33:25,b7cc5b4854052e8840ecfe66dfb2a594,United States,iOS,Direct,0
+2018-08-09 00:33:26,e0c264f4dc6e8ba89b9068135810ec0e,United States,Android,Direct,0
+2018-08-09 00:34:04,6097a98955a59d0c832fe45d611ec35d,United States,iOS,Direct,0
+2018-08-09 00:35:14,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,1
+2018-08-09 00:35:32,3b0f51613bf2698fa585474267520c65,United States,Mac,Direct,0
+2018-08-09 00:35:40,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:37:05,f39c2c1c9ae64992a6fba340485017d6,United States,Mac,Direct,0
+2018-08-09 00:37:34,4d5bd45436238c570b373fdc6371ddc4,United States,Windows,Direct,0
+2018-08-09 00:37:35,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:38:32,0138d6aadff0f0e49f57b2345cf6b5ee,United States,Mac,Direct,0
+2018-08-09 00:39:01,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:39:10,26cdea8a6df91fe3784ddad1cfcacdba,Trinidad and Tobago,Windows,Direct,0
+2018-08-09 00:39:11,91a30f9a180eae450df7bd89e81e7454,United States,Windows,Direct,1
+2018-08-09 00:40:02,828ca938f0040268f9b4f72e6b14eb81,United States,iOS,Direct,0
+2018-08-09 00:41:12,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,0
+2018-08-09 00:42:04,3ddc364f00e0ab35b0031bdb85600a40,United States,iOS,Direct,0
+2018-08-09 00:42:09,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:42:12,6b4625b3f111741141324132b7c8d630,Ireland,Windows,Direct,1
+2018-08-09 00:42:21,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:43:28,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,1
+2018-08-09 00:43:53,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 00:43:54,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,1
+2018-08-09 00:43:54,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:43:54,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:44:01,b7cc5b4854052e8840ecfe66dfb2a594,United States,Android,Direct,0
+2018-08-09 00:44:18,4a37b32779172b2e4b5bc9bc7180913d,United States,Mac,Direct,0
+2018-08-09 00:44:28,2e04304721463b410320f42cc8c07d02,United States,Mac,Direct,0
+2018-08-09 00:44:39,4a4c1fd51a8fd21d0b02143756d92324,United States,Mac,Direct,0
+2018-08-09 00:44:46,6b4625b3f111741141324132b7c8d630,United States,Android,Direct,0
+2018-08-09 00:45:42,91a30f9a180eae450df7bd89e81e7454,United States,Windows,Direct,1
+2018-08-09 00:46:32,b30d775bd0da866b909ecb3d8a98f557,United States,Android,Direct,0
+2018-08-09 00:46:52,4b648188911d46d3c6478953a225cb9c,United States,Windows,Direct,0
+2018-08-09 00:47:31,b30d775bd0da866b909ecb3d8a98f557,United States,Windows,Direct,0
+2018-08-09 00:47:35,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,0
+2018-08-09 00:47:44,65c7bc193babfc39dd3c33e097453ae0,United States,Mac,Direct,0
+2018-08-09 00:48:08,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 00:48:38,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,0
+2018-08-09 00:48:52,22b84c8d5414f40a7c7e1944ec29d65f,United States,Linux,Direct,0
+2018-08-09 00:48:55,e350da920cedbcf0530a88bda2cc68ab,United States,iOS,Direct,0
+2018-08-09 00:48:59,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:49:01,e1e2ebd2ae246f3df00b072b68c7f228,United States,Linux,Direct,0
+2018-08-09 00:49:17,1069bb839d0f383c3481d4f01d80db77,United States,Windows,Direct,1
+2018-08-09 00:49:20,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,0
+2018-08-09 00:50:06,a7998d7d4c563a11164f683345a618b4,United States,Windows,Direct,0
+2018-08-09 00:50:08,d7f358a46f5808a2ea1b3d78affd0141,United States,iOS,Direct,0
+2018-08-09 00:50:21,7b3a21a33973a2a21dea68b8629a4cf7,United States,iOS,Direct,0
+2018-08-09 00:50:52,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,1
+2018-08-09 00:51:58,2bd798ce9ca09f00a8d51350fa242ccc,United States,iOS,Direct,0
+2018-08-09 00:52:24,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,1
+2018-08-09 00:52:30,b47fc32c3970b004168ac50337e31176,United States,Windows,Direct,0
+2018-08-09 00:52:35,067cf05cfb3ff5b772b8089a5ec2725a,United States,Android,Direct,0
+2018-08-09 00:52:44,8fd4015b4cb098ccd4d58d26691ab192,United States,Mac,Direct,0
+2018-08-09 00:53:03,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 00:53:12,4a37b32779172b2e4b5bc9bc7180913d,United States,Mac,Direct,0
+2018-08-09 00:53:12,d7f358a46f5808a2ea1b3d78affd0141,United States,Mac,Direct,1
+2018-08-09 00:53:14,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:53:14,1247c4636f91b4f09c19b4a40250dc3d,United States,Windows,Direct,1
+2018-08-09 00:53:25,2e04304721463b410320f42cc8c07d02,United States,Windows,Direct,1
+2018-08-09 00:53:39,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 00:53:40,09905d31c3b8af59ead386c5b05be40e,Netherlands,Windows,Direct,0
+2018-08-09 00:54:11,2e04304721463b410320f42cc8c07d02,United States,Windows,Direct,0
+2018-08-09 00:54:14,d60e35690aaf4011b6343e1bac64ca94,United States,Windows,Direct,1
+2018-08-09 00:54:23,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 00:54:26,429abc5b35d2cfef588d77340482e3d7,France,Linux,Direct,1
+2018-08-09 00:54:29,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:54:37,9ecc64d0a0f053e147515442c1d271b1,United States,iOS,Direct,0
+2018-08-09 00:55:17,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:56:00,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:56:24,1247c4636f91b4f09c19b4a40250dc3d,United States,Mac,Direct,0
+2018-08-09 00:56:35,1c86379ec9f25b72b745f18635a281f6,United States,Windows,Direct,0
+2018-08-09 00:56:59,95864664247daf0ccfb01a9c71d42b3d,United States,Windows,Direct,0
+2018-08-09 00:57:10,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:57:42,d60e35690aaf4011b6343e1bac64ca94,United States,Windows,Direct,0
+2018-08-09 00:57:47,f9c2bce809f439f41b62699a062e266e,United States,iOS,Direct,0
+2018-08-09 00:58:09,ec17fc6d851553df8c6f430b78868a43,United States,iOS,Direct,1
+2018-08-09 00:58:53,b30d775bd0da866b909ecb3d8a98f557,United States,Android,Direct,0
+2018-08-09 00:59:14,8f2881c109db5351eb17ba5c84cd5e78,United States,Windows,Direct,0
+2018-08-09 00:59:53,de698fd689f092c52e20066704c5876d,United States,Windows,Direct,1
+2018-08-09 01:00:03,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,1
+2018-08-09 01:00:17,301c5b81b87bd3002962e34849abdb95,United States,iOS,Direct,1
+2018-08-09 01:00:20,eb28e75d15cd84562b16bf5a478ffdae,United States,Windows,Direct,0
+2018-08-09 01:00:39,d60e35690aaf4011b6343e1bac64ca94,United States,Windows,Direct,0
+2018-08-09 01:00:59,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 01:01:06,e4dc87c6a9ad0f885b7d6af6bb9a4a4b,United States,iOS,Direct,0
+2018-08-09 01:02:31,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:02:36,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,0
+2018-08-09 01:03:04,7b3a21a33973a2a21dea68b8629a4cf7,United States,Android,Direct,1
+2018-08-09 01:03:10,8fd4015b4cb098ccd4d58d26691ab192,United States,Android,Direct,0
+2018-08-09 01:03:34,6dc83f1e6a373e036bbaed7240b2ab7e,United States,iOS,Direct,0
+2018-08-09 01:04:47,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Linux,Direct,1
+2018-08-09 01:05:21,d4b9958f21b74d52f3df5a1015c6deb5,United States,Windows,Direct,0
+2018-08-09 01:06:21,d0c80c2faa040a807ce311ed690ffc8a,United States,Windows,Direct,0
+2018-08-09 01:07:01,2b7a1f6b461a24627ac6e75625bdfabf,United States,Windows,Direct,0
+2018-08-09 01:07:03,1e94db1611c3947fb4b9cc99324929a7,United States,Windows,Direct,0
+2018-08-09 01:08:53,7b3a21a33973a2a21dea68b8629a4cf7,United States,Android,Direct,0
+2018-08-09 01:09:37,b150398654ff021c2d5b9577ccd33d2c,United States,Windows,Direct,0
+2018-08-09 01:09:48,0f3aa820c224f675e2ae482a8b7da57a,United Kingdom,iOS,Direct,0
+2018-08-09 01:10:33,8459239ca74132f6cbca9e35e862c849,United States,Windows,Direct,0
+2018-08-09 01:10:41,5eb235adfa31be83fbb40df505037746,United States,iOS,Direct,0
+2018-08-09 01:11:20,311f31be36fd9cb507e39f1458320b9c,United States,Android,Direct,0
+2018-08-09 01:11:43,310ee6574b61260557f07c353f23f1b3,United States,iOS,Direct,0
+2018-08-09 01:12:07,8fd4015b4cb098ccd4d58d26691ab192,United States,iOS,Direct,1
+2018-08-09 01:13:24,8d18aa33c711055468755487c6548511,United States,Windows,Direct,0
+2018-08-09 01:13:52,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:13:59,8459239ca74132f6cbca9e35e862c849,United States,Windows,Direct,0
+2018-08-09 01:14:02,91a30f9a180eae450df7bd89e81e7454,United States,Windows,Direct,0
+2018-08-09 01:14:04,8d3a69229b2d4e283ec533bbf057c390,United States,Android,Direct,0
+2018-08-09 01:14:05,cde226834db7881c9221d2e3ea33b29c,United States,iOS,Direct,0
+2018-08-09 01:14:10,65e21fd3c788cf401b743786b0028d2c,United States,iOS,Direct,0
+2018-08-09 01:14:20,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 01:14:36,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,0
+2018-08-09 01:14:56,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:15:08,2e04304721463b410320f42cc8c07d02,United States,Windows,Direct,0
+2018-08-09 01:15:33,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:15:51,ead984685b2d54caa274d8026f33d338,United States,Mac,Direct,1
+2018-08-09 01:16:05,bedee6e6d8d5dc0dc235a8e82a45dbf6,United States,Windows,Direct,0
+2018-08-09 01:16:27,5139c8b6086825e1f9bf11c31584982a,United States,iOS,Direct,0
+2018-08-09 01:16:48,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:17:09,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,1
+2018-08-09 01:17:13,13f0905d6c3faf938b6783baaf87b9d1,United States,Mac,Direct,0
+2018-08-09 01:17:39,6fbaee4b74f1811b6d2beedc6b4b3924,United States,iOS,Direct,0
+2018-08-09 01:17:51,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 01:19:11,e19e6ac8fd98976299fa11a5184f2f8d,United States,Windows,Direct,0
+2018-08-09 01:19:12,10a3722c3d0a9b62740d2348b5280213,United States,Android,Direct,0
+2018-08-09 01:19:28,3b0f51613bf2698fa585474267520c65,United States,iOS,Direct,0
+2018-08-09 01:21:20,a4f73d907bf9677f4deb1376dbf9e333,United States,Android,Direct,0
+2018-08-09 01:21:43,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 01:22:18,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,0
+2018-08-09 01:22:37,0c15b7929568e564e357aabf04df3b0f,United States,Mac,Direct,0
+2018-08-09 01:23:12,7b3a21a33973a2a21dea68b8629a4cf7,United States,iOS,Direct,0
+2018-08-09 01:23:25,95864664247daf0ccfb01a9c71d42b3d,United States,Windows,Direct,0
+2018-08-09 01:23:38,9dc321048e775d9017e3015eeb8466fd,United States,iOS,Direct,1
+2018-08-09 01:23:45,1f32a899734e8c710fe65b83d913ca16,United States,Mac,Direct,0
+2018-08-09 01:24:01,046d77f1f69b9d248e15d70a611fcc1d,United States,Mac,Direct,0
+2018-08-09 01:24:12,6a823d51d7f3e48c46c89cf3f6cba068,United States,Windows,Direct,0
+2018-08-09 01:24:30,cde226834db7881c9221d2e3ea33b29c,United States,iOS,Direct,0
+2018-08-09 01:24:34,6abe0d238fb403ad47579cd76d2ebdb3,United States,Mac,Direct,1
+2018-08-09 01:24:36,473618e6b72b6d0e6dabdf15ce4ca1b2,United States,iOS,Direct,0
+2018-08-09 01:25:04,1af587f89d140017ddc27c3671462a60,United States,iOS,Direct,0
+2018-08-09 01:25:14,9dc321048e775d9017e3015eeb8466fd,United States,iOS,Direct,0
+2018-08-09 01:25:19,0138d6aadff0f0e49f57b2345cf6b5ee,United States,Mac,Direct,1
+2018-08-09 01:25:31,1c35e8cdf9cab0eec502c73826d7538e,United States,iOS,Direct,0
+2018-08-09 01:25:38,e1e9fc00dbe4d95962c7db80095fa9ca,Australia,Windows,Direct,0
+2018-08-09 01:25:46,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,1
+2018-08-09 01:26:05,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 01:26:30,de698fd689f092c52e20066704c5876d,United States,Windows,Direct,0
+2018-08-09 01:26:51,913c8d371ff4db47fc3f26f724e390d8,United States,iOS,Direct,1
+2018-08-09 01:27:34,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,0
+2018-08-09 01:27:34,cde226834db7881c9221d2e3ea33b29c,Ireland,iOS,Direct,0
+2018-08-09 01:27:44,11476a1dfd0a33a5fa66676db00b39d9,United States,Android,Direct,0
+2018-08-09 01:27:48,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 01:28:51,4173b7447f752ccdbb412e199c530f16,United States,Windows,Direct,0
+2018-08-09 01:29:08,bedee6e6d8d5dc0dc235a8e82a45dbf6,United States,iOS,Direct,0
+2018-08-09 01:29:11,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 01:29:21,dac6b085715cb0773d36d4d926e9380f,United States,iOS,Direct,0
+2018-08-09 01:29:51,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,0
+2018-08-09 01:30:12,3fa25e38f90b94cefb8cebe0d2f2b510,United States,Windows,Direct,0
+2018-08-09 01:30:29,bd849961b46c2be73bd9f684eda772d5,United States,Linux,Direct,0
+2018-08-09 01:30:32,5574ae0e3bac097bf062e2a13a7f19a6,United States,Linux,Direct,0
+2018-08-09 01:30:39,4d5bd45436238c570b373fdc6371ddc4,United States,iOS,Direct,1
+2018-08-09 01:30:53,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,0
+2018-08-09 01:31:18,463d76b98f652da7a7d88ba17a91de13,United States,Windows,Direct,0
+2018-08-09 01:31:30,9f0f0f678b0970e3f8d6e169f43d2dfa,United States,Linux,Direct,1
+2018-08-09 01:31:31,2e04304721463b410320f42cc8c07d02,United States,Mac,Direct,0
+2018-08-09 01:31:54,bcb34c4d2924771aae0d325c90e8f638,United States,iOS,Direct,1
+2018-08-09 01:32:56,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,1
+2018-08-09 01:33:28,82a26ed2c2fe6103bfc30dac5ac5df7b,United States,Mac,Direct,0
+2018-08-09 01:33:49,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 01:33:54,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,0
+2018-08-09 01:34:29,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:34:44,046d77f1f69b9d248e15d70a611fcc1d,United States,Mac,Direct,0
+2018-08-09 01:34:45,4a4c1fd51a8fd21d0b02143756d92324,United States,Mac,Direct,0
+2018-08-09 01:34:46,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 01:34:57,1a03511c10e996dc0daa2c6c92c8ebb2,United States,Windows,Direct,0
+2018-08-09 01:35:04,08b6ca2fd8521c627fdb470047867124,United States,Mac,Direct,0
+2018-08-09 01:35:45,2e04304721463b410320f42cc8c07d02,United States,Android,Direct,1
+2018-08-09 01:35:59,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:36:02,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,Mac,Direct,0
+2018-08-09 01:36:19,7c16d2f66a5ea5095a7744f0f059bbb1,United States,Mac,Direct,1
+2018-08-09 01:36:25,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:36:44,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,1
+2018-08-09 01:36:46,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,Mac,Direct,0
+2018-08-09 01:38:11,b30d775bd0da866b909ecb3d8a98f557,United States,Windows,Direct,0
+2018-08-09 01:38:11,13f0905d6c3faf938b6783baaf87b9d1,United States,iOS,Direct,1
+2018-08-09 01:38:34,2c6a33debcc5b50dc8ca95b4e073461c,United States,Windows,Direct,0
+2018-08-09 01:38:42,288bd253e177e512c1b0723e2990ea12,United States,Mac,Direct,0
+2018-08-09 01:38:52,f260a376efa5b846ba68475cee813479,United States,iOS,Direct,0
+2018-08-09 01:39:01,e9ced58c226d8a680d5a14310af2622b,United States,Mac,Direct,0
+2018-08-09 01:39:11,14017c1ce5f976849fa116ec4692be3f,United States,Mac,Direct,0
+2018-08-09 01:39:20,c32b2eb712baf2dd4f1e8e9d7332b905,United States,Windows,Direct,0
+2018-08-09 01:39:39,6fbaee4b74f1811b6d2beedc6b4b3924,United States,iOS,Direct,0
+2018-08-09 01:39:59,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 01:40:02,ce028c1a1d66447b6d6943b16b4ad396,United States,Linux,Direct,0
+2018-08-09 01:40:04,34f7be649ffa959a00ae5338818bac36,United States,Mac,Direct,1
+2018-08-09 01:40:19,5139c8b6086825e1f9bf11c31584982a,United States,iOS,Direct,0
+2018-08-09 01:40:37,ace52fb7fbf069332795f1dd085345a4,United States,Mac,Direct,0
+2018-08-09 01:40:51,a3fdbc6441c1cf3b2d5d821d61298c75,United States,Mac,Direct,0
+2018-08-09 01:40:53,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 01:41:06,8e5282bf7a89cb91f0ebf38cb563055c,United States,iOS,Direct,1
+2018-08-09 01:41:10,613f65a4defe7983152b032066485a7b,Mexico,Windows,Direct,0
+2018-08-09 01:42:31,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,1
+2018-08-09 01:42:40,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,1
+2018-08-09 01:42:53,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 01:43:14,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 01:43:20,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 01:43:20,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 01:43:29,850fbd1f5d7930fa29b5d9238c987e91,Philippines,Windows,Direct,0
+2018-08-09 01:43:47,1979a15aa0107712753a2d6b9b22a255,United States,Windows,Direct,0
+2018-08-09 01:44:16,b05a7f53713a50af26dfd620a6048223,United States,Mac,Direct,0
+2018-08-09 01:44:27,11476a1dfd0a33a5fa66676db00b39d9,United States,Windows,Direct,0
+2018-08-09 01:44:50,8da525503c419eecaaf4ffbf347baefa,India,Android,Direct,0
+2018-08-09 01:44:52,37731c62f89d510430e100b878abfc8d,United States,Windows,Direct,1
+2018-08-09 01:45:03,7f5d1a2a861fbc2ad2ea74e458c7efce,United States,Windows,Direct,0
+2018-08-09 01:45:06,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 01:45:25,9f0f0f678b0970e3f8d6e169f43d2dfa,Canada,Windows,Direct,0
+2018-08-09 01:45:32,4c8359ba626712696a8c532a44510233,United States,iOS,Direct,0
+2018-08-09 01:45:35,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 01:45:40,5aebf912408685d60b49e90fc8c53343,United States,iOS,Direct,1
+2018-08-09 01:45:58,62497e2e2a6d01703ea31bfde42d4fb7,United States,Windows,Direct,0
+2018-08-09 01:46:22,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 01:47:10,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 01:47:33,4a2858fd09b440212ee8873682acbd07,United States,Linux,Direct,0
+2018-08-09 01:47:45,d60e35690aaf4011b6343e1bac64ca94,United States,iOS,Direct,1
+2018-08-09 01:47:55,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:48:07,edcd5c5dcdb7bb918457fddb755e6090,United States,Windows,Direct,0
+2018-08-09 01:48:09,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,0
+2018-08-09 01:48:21,e58a951e2f55133adfa78e0336fd4b08,Philippines,Windows,Direct,1
+2018-08-09 01:48:26,8d18aa33c711055468755487c6548511,United States,iOS,Direct,0
+2018-08-09 01:48:39,c8b5cbf4dd16f93f112d5cd9f40177c7,United States,Windows,Direct,1
+2018-08-09 01:48:42,5eb235adfa31be83fbb40df505037746,United States,Windows,Direct,0
+2018-08-09 01:49:00,7146cb08e94b91cbdb0f5e16588cc60d,United States,Windows,Direct,0
+2018-08-09 01:49:12,71bd74ee473867ae99fe16692acd2272,United States,Windows,Direct,0
+2018-08-09 01:49:29,2085763b29e22a64cd7cbc070280da54,United States,Windows,Direct,0
+2018-08-09 01:49:31,8ab337985dfc9e8d126e39a1b6a53b4d,United States,Windows,Direct,1
+2018-08-09 01:50:08,b05a7f53713a50af26dfd620a6048223,United States,Windows,Direct,1
+2018-08-09 01:50:46,f260a376efa5b846ba68475cee813479,United States,Windows,Direct,0
+2018-08-09 01:50:55,6097a98955a59d0c832fe45d611ec35d,United States,Android,Direct,0
+2018-08-09 01:50:59,b9f7e9f88f52e83b1d1745baf7817e00,United States,Windows,Direct,1
+2018-08-09 01:51:18,9dc321048e775d9017e3015eeb8466fd,United States,iOS,Direct,0
+2018-08-09 01:51:23,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,1
+2018-08-09 01:51:24,b178ac94589f89661674816899a431e6,Philippines,Windows,Direct,1
+2018-08-09 01:51:38,934fb10f8b2cf1d58d5340c2b588eb75,United States,Windows,Direct,0
+2018-08-09 01:52:01,913c8d371ff4db47fc3f26f724e390d8,United States,iOS,Direct,0
+2018-08-09 01:52:25,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 01:52:26,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 01:52:28,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 01:52:45,421a307e454ecc516d475be3183edf86,United States,iOS,Direct,0
+2018-08-09 01:52:48,fe6fd29766ccaee506ebd65305ff5bac,United States,Android,Direct,1
+2018-08-09 01:52:50,e466e376680fbb6d0c558ca3dd8bcfa2,United States,iOS,Direct,0
+2018-08-09 01:52:57,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 01:53:24,8d18aa33c711055468755487c6548511,United States,iOS,Direct,0
+2018-08-09 01:54:04,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:54:34,30d835ba5bae1a930845735fb3f273af,United States,iOS,Direct,1
+2018-08-09 01:55:02,ed67b5d36f6b6e8b8f9b8777a3cfef5f,United States,iOS,Direct,1
+2018-08-09 01:55:21,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:55:42,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 01:55:53,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 01:56:00,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,1
+2018-08-09 01:56:01,46cabd7687053218ff49ffb9f816d20f,Ecuador,Windows,Direct,0
+2018-08-09 01:56:39,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 01:57:26,11476a1dfd0a33a5fa66676db00b39d9,United States,iOS,Direct,0
+2018-08-09 01:58:00,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,0
+2018-08-09 01:58:33,33274c7f8a546a5f987ae9c26e72686f,United States,iOS,Direct,0
+2018-08-09 01:58:49,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 01:58:50,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,1
+2018-08-09 01:59:43,8fd4015b4cb098ccd4d58d26691ab192,United States,Windows,Direct,1
+2018-08-09 02:00:07,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 02:00:33,5aebf912408685d60b49e90fc8c53343,United States,Windows,Direct,0
+2018-08-09 02:00:38,556365f9c7b8bcd3164f124f11e342ee,United States,Windows,Direct,0
+2018-08-09 02:00:51,e064fc78f671f93c02e1e57f4546c34a,United States,Windows,Direct,0
+2018-08-09 02:00:56,b47fc32c3970b004168ac50337e31176,United States,Android,Direct,0
+2018-08-09 02:01:05,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:01:12,60f8e52f2f6968aaf0d96178e458eee0,United States,Windows,Direct,1
+2018-08-09 02:01:33,a90d069ac0d2876596ea4240d64d731c,United States,iOS,Direct,0
+2018-08-09 02:01:47,d60e35690aaf4011b6343e1bac64ca94,United States,Android,Direct,0
+2018-08-09 02:01:50,881625da6e9bde70dcc082c5da5c7629,United States,Mac,Direct,1
+2018-08-09 02:02:04,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:02:32,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 02:02:38,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:02:39,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 02:02:40,913c8d371ff4db47fc3f26f724e390d8,United States,Windows,Direct,0
+2018-08-09 02:02:48,6b4625b3f111741141324132b7c8d630,United States,Android,Direct,0
+2018-08-09 02:02:49,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:03:14,557e137ec1c2588e863406c3a170d417,Ireland,iOS,Direct,0
+2018-08-09 02:03:22,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 02:03:32,1f32a899734e8c710fe65b83d913ca16,United States,Android,Direct,0
+2018-08-09 02:03:55,421a307e454ecc516d475be3183edf86,United States,Windows,Direct,0
+2018-08-09 02:04:04,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 02:04:09,2e04304721463b410320f42cc8c07d02,United States,Android,Direct,0
+2018-08-09 02:04:15,b0eb10f0efc0c1ec60c843c907712065,United States,Windows,Direct,1
+2018-08-09 02:04:23,74e708ae946785a5f0b52f7c5941f5a8,Canada,Windows,Direct,0
+2018-08-09 02:04:30,827c418ffc339d01ef624932db45b965,United States,Linux,Direct,0
+2018-08-09 02:04:30,05dc0bad788f12547b3751f3f3415a5a,United States,Linux,Direct,0
+2018-08-09 02:04:41,88397e904262219cb91742c512cb1ec6,United States,Windows,Direct,0
+2018-08-09 02:04:51,8d18aa33c711055468755487c6548511,United States,Windows,Direct,0
+2018-08-09 02:04:58,421a307e454ecc516d475be3183edf86,United States,Android,Direct,1
+2018-08-09 02:05:15,288bd253e177e512c1b0723e2990ea12,United States,Windows,Direct,0
+2018-08-09 02:05:25,7b3a21a33973a2a21dea68b8629a4cf7,United States,iOS,Direct,0
+2018-08-09 02:05:30,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,Android,Direct,1
+2018-08-09 02:05:32,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 02:05:36,6abc235bd9062305e8f3271dd7c7d600,United States,Windows,Direct,0
+2018-08-09 02:05:47,1c86379ec9f25b72b745f18635a281f6,United States,Windows,Direct,0
+2018-08-09 02:05:51,df9c6637da9c0caccb53663ed6944c9c,United States,Windows,Direct,0
+2018-08-09 02:06:02,9ac8ffa505f70a457580cacd3565d587,United States,Chrome OS,Direct,0
+2018-08-09 02:06:24,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 02:06:38,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 02:06:58,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 02:08:13,2053e0b452a5489973888dfc822d53cc,United States,iOS,Direct,0
+2018-08-09 02:08:22,7c16d2f66a5ea5095a7744f0f059bbb1,United States,Windows,Direct,1
+2018-08-09 02:08:25,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,1
+2018-08-09 02:08:59,52d98cf53485c9f5b16c4eb80c2e63f2,United States,Windows,Direct,0
+2018-08-09 02:09:21,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,1
+2018-08-09 02:09:38,d022d4f9ab11d96371aad4195c2653b5,United States,Windows,Direct,0
+2018-08-09 02:09:39,0d9cfda1373e186d81a6ca8be6924544,United States,iOS,Direct,0
+2018-08-09 02:09:45,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,1
+2018-08-09 02:10:06,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 02:10:12,b75dcd82695dcc0e20700e40947c7743,United States,iOS,Direct,0
+2018-08-09 02:10:20,ae395e9128dd60a749ba537cec786d6a,United States,Windows,Direct,0
+2018-08-09 02:10:36,de698fd689f092c52e20066704c5876d,United States,Mac,Direct,0
+2018-08-09 02:10:40,b6d46d804a039aa1d4819fed129a634a,United States,Windows,Direct,0
+2018-08-09 02:10:41,ed67b5d36f6b6e8b8f9b8777a3cfef5f,United States,Android,Direct,0
+2018-08-09 02:10:44,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 02:10:45,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 02:10:47,6b4625b3f111741141324132b7c8d630,Ireland,iOS,Direct,0
+2018-08-09 02:11:05,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,1
+2018-08-09 02:11:37,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 02:12:03,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,0
+2018-08-09 02:12:18,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 02:12:26,d60e35690aaf4011b6343e1bac64ca94,United States,iOS,Direct,1
+2018-08-09 02:12:33,9f9367d891e1c90c0b0a381f0cd62120,United States,Mac,Direct,0
+2018-08-09 02:12:53,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:13:05,b6d46d804a039aa1d4819fed129a634a,United States,Windows,Direct,0
+2018-08-09 02:13:16,7949d60e4f7ff063a0f3b1e28a24d8ab,Australia,Windows,Direct,0
+2018-08-09 02:13:24,d257f63607551a07ecfc34011305bcd0,Australia,Windows,Direct,0
+2018-08-09 02:13:45,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 02:13:53,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,1
+2018-08-09 02:13:54,2b7a1f6b461a24627ac6e75625bdfabf,United States,Windows,Direct,0
+2018-08-09 02:13:58,c694099e5f0cc114b0ffd861a6ea97cc,Philippines,Windows,Direct,0
+2018-08-09 02:14:06,e58a951e2f55133adfa78e0336fd4b08,Philippines,Windows,Direct,1
+2018-08-09 02:14:20,994359af0586eb44b1be4d8cbd117abe,Philippines,Windows,Direct,0
+2018-08-09 02:14:22,b6d46d804a039aa1d4819fed129a634a,United States,Windows,Direct,0
+2018-08-09 02:14:48,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 02:15:03,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,0
+2018-08-09 02:15:03,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 02:15:12,850fbd1f5d7930fa29b5d9238c987e91,Philippines,Windows,Direct,0
+2018-08-09 02:15:17,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,1
+2018-08-09 02:15:42,b7cc5b4854052e8840ecfe66dfb2a594,United States,iOS,Direct,0
+2018-08-09 02:15:43,6fff378afada6265673c4e77cdd7be09,Philippines,iOS,Direct,0
+2018-08-09 02:15:43,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 02:15:47,6b4625b3f111741141324132b7c8d630,Ireland,iOS,Direct,0
+2018-08-09 02:15:48,6b4625b3f111741141324132b7c8d630,Ireland,Windows,Direct,0
+2018-08-09 02:15:48,994359af0586eb44b1be4d8cbd117abe,Philippines,Windows,Direct,1
+2018-08-09 02:15:56,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 02:15:56,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 02:15:56,3ddc364f00e0ab35b0031bdb85600a40,United States,iOS,Direct,1
+2018-08-09 02:16:02,36df1ed17aca5cf9d7d79c65dd84d050,Philippines,Windows,Direct,1
+2018-08-09 02:16:10,994359af0586eb44b1be4d8cbd117abe,Philippines,Windows,Direct,0
+2018-08-09 02:16:12,b62b0387d095e4e75f7015175bb1edc0,United States,Windows,Direct,1
+2018-08-09 02:16:16,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,1
+2018-08-09 02:16:23,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 02:17:13,850fbd1f5d7930fa29b5d9238c987e91,Philippines,Windows,Direct,0
+2018-08-09 02:17:21,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,0
+2018-08-09 02:17:22,b47fc32c3970b004168ac50337e31176,United States,iOS,Direct,0
+2018-08-09 02:17:27,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,0
+2018-08-09 02:17:42,e58a951e2f55133adfa78e0336fd4b08,Philippines,Windows,Direct,0
+2018-08-09 02:17:45,2984514f9d1f11fdf522ea9e54d396a2,United States,Windows,Direct,0
+2018-08-09 02:17:51,db76c67aec3312a8a54b4700f1200215,United States,Mac,Direct,0
+2018-08-09 02:18:18,17d113b63b4fc347da563ab3fd1f37c2,United States,Android,Direct,0
+2018-08-09 02:18:28,2951bb717f2cb801972241c5d707abd4,Philippines,Windows,Direct,0
+2018-08-09 02:18:48,149b1eb6732b717452f0e71231ae6961,United States,Windows,Direct,0
+2018-08-09 02:18:49,b7086d37070c484c1b41fbc92328c6eb,United States,Windows,Direct,0
+2018-08-09 02:18:54,538fc5a828c50123d9648cb597a87862,United States,iOS,Direct,0
+2018-08-09 02:19:02,33274c7f8a546a5f987ae9c26e72686f,United States,Windows,Direct,1
+2018-08-09 02:19:29,91a30f9a180eae450df7bd89e81e7454,United States,Windows,Direct,0
+2018-08-09 02:20:09,ea6bb2364db0f25e493efc1c0bb320d3,United States,Windows,Direct,0
+2018-08-09 02:20:16,20dbac96bf586c254d1255e94dcbf2dd,United States,Windows,Direct,0
+2018-08-09 02:20:20,54bb0594164f30c84f6dddabd0af4f62,United States,Windows,Direct,1
+2018-08-09 02:20:23,0c15b7929568e564e357aabf04df3b0f,United States,Mac,Direct,0
+2018-08-09 02:20:30,6e1fdd529065cfd5f9338c307ece3ec5,United States,Windows,Direct,0
+2018-08-09 02:20:53,b47fc32c3970b004168ac50337e31176,United States,iOS,Direct,0
+2018-08-09 02:21:52,6097a98955a59d0c832fe45d611ec35d,United States,iOS,Direct,0
+2018-08-09 02:21:54,7b3a21a33973a2a21dea68b8629a4cf7,United States,iOS,Direct,0
+2018-08-09 00:00:04,17f6965d9ce3c92ccf95b739046c28b0,United States,Windows,Direct,0
+2018-08-09 00:00:04,53ef61cbc4781542540ae609a6c748c6,United States,Mac,Direct,1
+2018-08-09 00:00:22,cab71ea19b064413784b171200fbce70,United States,Chrome OS,Direct,0
+2018-08-09 00:01:05,913c8d371ff4db47fc3f26f724e390d8,United States,iOS,Direct,0
+2018-08-09 00:01:10,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,0
+2018-08-09 00:01:16,8fd4015b4cb098ccd4d58d26691ab192,Mexico,iOS,Direct,0
+2018-08-09 00:01:43,755ea2a2a36667f8f5d8d44bc80a401c,United States,Linux,Direct,0
+2018-08-09 00:03:14,93665edecbb43a2c17777f64b4339c74,United States,Windows,Direct,1
+2018-08-09 00:03:23,130409c02203abd477b4025876f21efc,United States,Android,Direct,0
+2018-08-09 00:03:31,850fbd1f5d7930fa29b5d9238c987e91,United States,Mac,Direct,0
+2018-08-09 00:03:38,90efab1fe6e411601e1abb188d08d16b,United States,Mac,Direct,0
+2018-08-09 00:03:49,994359af0586eb44b1be4d8cbd117abe,United States,Mac,Direct,0
+2018-08-09 00:03:49,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,0
+2018-08-09 00:03:51,dbcf5834deb5c67933ed6069f4e924a3,United States,Mac,Direct,0
+2018-08-09 00:04:06,994359af0586eb44b1be4d8cbd117abe,United States,Mac,Direct,0
+2018-08-09 00:04:12,dbcf5834deb5c67933ed6069f4e924a3,United States,Mac,Direct,0
+2018-08-09 00:04:14,afb7ce92e1cd4b4cba3355407b883d37,United States,Windows,Direct,0
+2018-08-09 00:04:22,b30d775bd0da866b909ecb3d8a98f557,United States,Android,Direct,0
+2018-08-09 00:04:38,613f65a4defe7983152b032066485a7b,United States,Linux,Direct,0
+2018-08-09 00:04:52,6482dcaa1449c2942b43131a330d6cf4,United States,Mac,Direct,0
+2018-08-09 00:04:56,b682a46808255b4d86a663d3cb25fee6,United States,Mac,Direct,0
+2018-08-09 00:05:15,994359af0586eb44b1be4d8cbd117abe,United States,Mac,Direct,0
+2018-08-09 00:05:44,fea36fa9cddda8a757fa68581d130e7a,United States,iOS,Direct,0
+2018-08-09 00:05:46,556365f9c7b8bcd3164f124f11e342ee,United States,Windows,Direct,0
+2018-08-09 00:05:54,7b3a21a33973a2a21dea68b8629a4cf7,Canada,Windows,Direct,0
+2018-08-09 00:05:54,913c8d371ff4db47fc3f26f724e390d8,United States,Windows,Direct,0
+2018-08-09 00:06:30,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:06:31,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:06:36,613f65a4defe7983152b032066485a7b,United States,Linux,Direct,0
+2018-08-09 00:06:52,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,0
+2018-08-09 00:06:56,913c8d371ff4db47fc3f26f724e390d8,United States,Windows,Direct,1
+2018-08-09 00:07:48,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Linux,Direct,0
+2018-08-09 00:08:10,f260a376efa5b846ba68475cee813479,United States,iOS,Direct,0
+2018-08-09 00:08:15,2520386ec60d873df207df77538f8a4c,United States,Mac,Direct,0
+2018-08-09 00:08:23,7a5ade000d3414aaae233156778e9398,United States,iOS,Direct,1
+2018-08-09 00:08:24,538fc5a828c50123d9648cb597a87862,United States,Android,Direct,0
+2018-08-09 00:08:48,bd54f9ec0f0cdb9394eedd19f43a6bc6,United States,iOS,Direct,1
+2018-08-09 00:09:06,1c86379ec9f25b72b745f18635a281f6,United States,Windows,Direct,0
+2018-08-09 00:09:15,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:10:10,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:10:17,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 00:10:21,2e04304721463b410320f42cc8c07d02,United States,Android,Direct,1
+2018-08-09 00:10:36,ea1635ac03abe6b48a937dca91ee6a00,Australia,Windows,Direct,0
+2018-08-09 00:10:40,d4b9958f21b74d52f3df5a1015c6deb5,United States,Windows,Direct,1
+2018-08-09 00:10:47,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:11:01,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:11:33,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:11:41,130409c02203abd477b4025876f21efc,United States,Windows,Direct,0
+2018-08-09 00:11:42,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:11:45,b62b0387d095e4e75f7015175bb1edc0,United States,Windows,Direct,0
+2018-08-09 00:11:51,c3dcbecc3dc8997e0ccb5a6e974c1c3e,United States,iOS,Direct,0
+2018-08-09 00:12:00,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 00:12:02,74e708ae946785a5f0b52f7c5941f5a8,United States,Windows,Direct,0
+2018-08-09 00:12:07,5851194af2654fe050c5e0cce34b731c,United States,Linux,Direct,0
+2018-08-09 00:12:31,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,1
+2018-08-09 00:12:40,c32b2eb712baf2dd4f1e8e9d7332b905,United States,iOS,Direct,0
+2018-08-09 00:12:44,6dd1ae9ff993bb0d9ffbbb342a4a1c81,United States,iOS,Direct,0
+2018-08-09 00:12:58,7b3a21a33973a2a21dea68b8629a4cf7,United States,Windows,Direct,1
+2018-08-09 00:13:01,5aebf912408685d60b49e90fc8c53343,Australia,Android,Direct,0
+2018-08-09 00:13:16,8a875e2f03e6ebc765f26dac3c5d627e,United States,iOS,Direct,0
+2018-08-09 00:13:22,9e4d0a059d7f4d95128f0d95830fc89e,United States,Windows,Direct,0
+2018-08-09 00:13:27,2b7a1f6b461a24627ac6e75625bdfabf,United States,Windows,Direct,0
+2018-08-09 00:13:33,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:14:08,74e708ae946785a5f0b52f7c5941f5a8,United States,Windows,Direct,0
+2018-08-09 00:14:17,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 00:14:24,b62b0387d095e4e75f7015175bb1edc0,United States,Windows,Direct,0
+2018-08-09 00:15:00,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,1
+2018-08-09 00:15:20,f39c2c1c9ae64992a6fba340485017d6,United States,Windows,Direct,0
+2018-08-09 00:15:37,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:15:42,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,1
+2018-08-09 00:16:02,95864664247daf0ccfb01a9c71d42b3d,United States,Mac,Direct,0
+2018-08-09 00:16:07,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:16:55,7c7b731244071b9328b4f9b8718a72d5,United States,Android,Direct,0
+2018-08-09 00:16:57,6fbaee4b74f1811b6d2beedc6b4b3924,United States,Windows,Direct,0
+2018-08-09 00:17:05,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,1
+2018-08-09 00:17:20,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,0
+2018-08-09 00:17:22,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:17:49,6dc83f1e6a373e036bbaed7240b2ab7e,United States,Windows,Direct,0
+2018-08-09 00:17:52,6dc83f1e6a373e036bbaed7240b2ab7e,United States,Windows,Direct,0
+2018-08-09 00:17:58,e7ccfddc6321f69a6cc6352590de14df,Thailand,Windows,Direct,0
+2018-08-09 00:18:00,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:18:10,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Linux,Direct,0
+2018-08-09 00:18:15,71bd74ee473867ae99fe16692acd2272,United States,iOS,Direct,0
+2018-08-09 00:18:16,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:18:34,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:18:37,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:18:45,787f2951bac04a20294a32faf719101b,United States,iOS,Direct,0
+2018-08-09 00:18:49,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:18:59,556365f9c7b8bcd3164f124f11e342ee,United States,Windows,Direct,0
+2018-08-09 00:19:28,74e708ae946785a5f0b52f7c5941f5a8,United States,iOS,Direct,0
+2018-08-09 00:20:18,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 00:21:14,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 00:21:30,c3dcbecc3dc8997e0ccb5a6e974c1c3e,United States,Windows,Direct,1
+2018-08-09 00:21:44,ace52fb7fbf069332795f1dd085345a4,United States,Windows,Direct,0
+2018-08-09 00:22:03,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:22:08,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:22:14,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:22:18,6469e26317f16404e4892ed03e437858,United States,Windows,Direct,0
+2018-08-09 00:23:11,72d74f43e75fcf9c4978bccaddac7fe6,United States,iOS,Direct,0
+2018-08-09 00:23:41,421a307e454ecc516d475be3183edf86,United States,iOS,Direct,0
+2018-08-09 00:23:43,6b4625b3f111741141324132b7c8d630,United States,Android,Direct,0
+2018-08-09 00:24:25,473618e6b72b6d0e6dabdf15ce4ca1b2,United States,iOS,Direct,1
+2018-08-09 00:24:52,4410af8547ebda094d66c4d2928d28ac,United States,iOS,Direct,1
+2018-08-09 00:25:31,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,1
+2018-08-09 00:25:32,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:25:43,8fd4015b4cb098ccd4d58d26691ab192,United States,Android,Direct,0
+2018-08-09 00:25:47,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:26:10,e63f9924dbcaf518b22896beea6ac8c8,United States,Windows,Direct,0
+2018-08-09 00:26:45,8dbcaa956d049a99ffb64db0f73e0ba3,United States,Windows,Direct,1
+2018-08-09 00:27:03,7b3a21a33973a2a21dea68b8629a4cf7,United States,Mac,Direct,0
+2018-08-09 00:27:33,8ab337985dfc9e8d126e39a1b6a53b4d,United States,Mac,Direct,0
+2018-08-09 00:28:25,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,1
+2018-08-09 00:28:25,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,1
+2018-08-09 00:29:07,b47fc32c3970b004168ac50337e31176,United States,Android,Direct,0
+2018-08-09 00:29:38,b7086d37070c484c1b41fbc92328c6eb,United States,iOS,Direct,0
+2018-08-09 00:29:57,1979a15aa0107712753a2d6b9b22a255,United States,Windows,Direct,0
+2018-08-09 00:30:04,7f5d1a2a861fbc2ad2ea74e458c7efce,United States,Windows,Direct,1
+2018-08-09 00:30:23,efb4ff6195f274f535b2b54a1a46a40b,Australia,Windows,Direct,0
+2018-08-09 00:30:34,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 00:30:47,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 00:31:31,382dcc05430126b5616215652924bdb7,United States,Linux,Direct,0
+2018-08-09 00:32:17,b05a7f53713a50af26dfd620a6048223,United States,Mac,Direct,0
+2018-08-09 00:32:52,e1e9fc00dbe4d95962c7db80095fa9ca,United States,iOS,Direct,0
+2018-08-09 00:32:53,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:33:05,4a4c1fd51a8fd21d0b02143756d92324,United States,Mac,Direct,1
+2018-08-09 00:33:25,b7cc5b4854052e8840ecfe66dfb2a594,United States,iOS,Direct,0
+2018-08-09 00:33:26,e0c264f4dc6e8ba89b9068135810ec0e,United States,Android,Direct,0
+2018-08-09 00:34:04,6097a98955a59d0c832fe45d611ec35d,United States,iOS,Direct,0
+2018-08-09 00:35:14,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:35:32,3b0f51613bf2698fa585474267520c65,United States,Mac,Direct,0
+2018-08-09 00:35:40,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:37:05,f39c2c1c9ae64992a6fba340485017d6,United States,Mac,Direct,0
+2018-08-09 00:37:34,4d5bd45436238c570b373fdc6371ddc4,United States,Windows,Direct,0
+2018-08-09 00:37:35,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:38:32,0138d6aadff0f0e49f57b2345cf6b5ee,United States,Mac,Direct,0
+2018-08-09 00:39:01,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:39:10,26cdea8a6df91fe3784ddad1cfcacdba,Trinidad and Tobago,Windows,Direct,0
+2018-08-09 00:39:11,91a30f9a180eae450df7bd89e81e7454,United States,Windows,Direct,0
+2018-08-09 00:40:02,828ca938f0040268f9b4f72e6b14eb81,United States,iOS,Direct,0
+2018-08-09 00:41:12,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,0
+2018-08-09 00:42:04,3ddc364f00e0ab35b0031bdb85600a40,United States,iOS,Direct,0
+2018-08-09 00:42:09,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,1
+2018-08-09 00:42:12,6b4625b3f111741141324132b7c8d630,Ireland,Windows,Direct,0
+2018-08-09 00:42:21,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 00:43:28,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 00:43:53,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 00:43:54,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:43:54,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:43:54,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 00:44:01,b7cc5b4854052e8840ecfe66dfb2a594,United States,Android,Direct,0
+2018-08-09 00:44:18,4a37b32779172b2e4b5bc9bc7180913d,United States,Mac,Direct,0
+2018-08-09 00:44:28,2e04304721463b410320f42cc8c07d02,United States,Mac,Direct,0
+2018-08-09 00:44:39,4a4c1fd51a8fd21d0b02143756d92324,United States,Mac,Direct,0
+2018-08-09 00:44:46,6b4625b3f111741141324132b7c8d630,United States,Android,Direct,1
+2018-08-09 00:45:42,91a30f9a180eae450df7bd89e81e7454,United States,Windows,Direct,0
+2018-08-09 00:46:32,b30d775bd0da866b909ecb3d8a98f557,United States,Android,Direct,0
+2018-08-09 00:46:52,4b648188911d46d3c6478953a225cb9c,United States,Windows,Direct,1
+2018-08-09 00:47:31,b30d775bd0da866b909ecb3d8a98f557,United States,Windows,Direct,0
+2018-08-09 00:47:35,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,0
+2018-08-09 00:47:44,65c7bc193babfc39dd3c33e097453ae0,United States,Mac,Direct,0
+2018-08-09 00:48:08,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 00:48:38,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,0
+2018-08-09 00:48:52,22b84c8d5414f40a7c7e1944ec29d65f,United States,Linux,Direct,0
+2018-08-09 00:48:55,e350da920cedbcf0530a88bda2cc68ab,United States,iOS,Direct,0
+2018-08-09 00:48:59,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:49:01,e1e2ebd2ae246f3df00b072b68c7f228,United States,Linux,Direct,0
+2018-08-09 00:49:17,1069bb839d0f383c3481d4f01d80db77,United States,Windows,Direct,0
+2018-08-09 00:49:20,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,0
+2018-08-09 00:50:06,a7998d7d4c563a11164f683345a618b4,United States,Windows,Direct,1
+2018-08-09 00:50:08,d7f358a46f5808a2ea1b3d78affd0141,United States,iOS,Direct,0
+2018-08-09 00:50:21,7b3a21a33973a2a21dea68b8629a4cf7,United States,iOS,Direct,1
+2018-08-09 00:50:52,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 00:51:58,2bd798ce9ca09f00a8d51350fa242ccc,United States,iOS,Direct,0
+2018-08-09 00:52:24,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 00:52:30,b47fc32c3970b004168ac50337e31176,United States,Windows,Direct,0
+2018-08-09 00:52:35,067cf05cfb3ff5b772b8089a5ec2725a,United States,Android,Direct,1
+2018-08-09 00:52:44,8fd4015b4cb098ccd4d58d26691ab192,United States,Mac,Direct,0
+2018-08-09 00:53:03,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,1
+2018-08-09 00:53:12,4a37b32779172b2e4b5bc9bc7180913d,United States,Mac,Direct,1
+2018-08-09 00:53:12,d7f358a46f5808a2ea1b3d78affd0141,United States,Mac,Direct,0
+2018-08-09 00:53:14,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:53:14,1247c4636f91b4f09c19b4a40250dc3d,United States,Windows,Direct,0
+2018-08-09 00:53:25,2e04304721463b410320f42cc8c07d02,United States,Windows,Direct,0
+2018-08-09 00:53:39,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 00:53:40,09905d31c3b8af59ead386c5b05be40e,Netherlands,Windows,Direct,1
+2018-08-09 00:54:11,2e04304721463b410320f42cc8c07d02,United States,Windows,Direct,0
+2018-08-09 00:54:14,d60e35690aaf4011b6343e1bac64ca94,United States,Windows,Direct,0
+2018-08-09 00:54:23,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 00:54:26,429abc5b35d2cfef588d77340482e3d7,France,Linux,Direct,0
+2018-08-09 00:54:29,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:54:37,9ecc64d0a0f053e147515442c1d271b1,United States,iOS,Direct,0
+2018-08-09 00:55:17,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:56:00,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 00:56:24,1247c4636f91b4f09c19b4a40250dc3d,United States,Mac,Direct,0
+2018-08-09 00:56:35,1c86379ec9f25b72b745f18635a281f6,United States,Windows,Direct,0
+2018-08-09 00:56:59,95864664247daf0ccfb01a9c71d42b3d,United States,Windows,Direct,0
+2018-08-09 00:57:10,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 00:57:42,d60e35690aaf4011b6343e1bac64ca94,United States,Windows,Direct,0
+2018-08-09 00:57:47,f9c2bce809f439f41b62699a062e266e,United States,iOS,Direct,0
+2018-08-09 00:58:09,ec17fc6d851553df8c6f430b78868a43,United States,iOS,Direct,0
+2018-08-09 00:58:53,b30d775bd0da866b909ecb3d8a98f557,United States,Android,Direct,0
+2018-08-09 00:59:14,8f2881c109db5351eb17ba5c84cd5e78,United States,Windows,Direct,0
+2018-08-09 00:59:53,de698fd689f092c52e20066704c5876d,United States,Windows,Direct,1
+2018-08-09 01:00:03,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,1
+2018-08-09 01:00:17,301c5b81b87bd3002962e34849abdb95,United States,iOS,Direct,0
+2018-08-09 01:00:20,eb28e75d15cd84562b16bf5a478ffdae,United States,Windows,Direct,0
+2018-08-09 01:00:39,d60e35690aaf4011b6343e1bac64ca94,United States,Windows,Direct,1
+2018-08-09 01:00:59,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,1
+2018-08-09 01:01:06,e4dc87c6a9ad0f885b7d6af6bb9a4a4b,United States,iOS,Direct,0
+2018-08-09 01:02:31,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:02:36,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,0
+2018-08-09 01:03:04,7b3a21a33973a2a21dea68b8629a4cf7,United States,Android,Direct,0
+2018-08-09 01:03:10,8fd4015b4cb098ccd4d58d26691ab192,United States,Android,Direct,0
+2018-08-09 01:03:34,6dc83f1e6a373e036bbaed7240b2ab7e,United States,iOS,Direct,0
+2018-08-09 01:04:47,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Linux,Direct,0
+2018-08-09 01:05:21,d4b9958f21b74d52f3df5a1015c6deb5,United States,Windows,Direct,0
+2018-08-09 01:06:21,d0c80c2faa040a807ce311ed690ffc8a,United States,Windows,Direct,0
+2018-08-09 01:07:01,2b7a1f6b461a24627ac6e75625bdfabf,United States,Windows,Direct,0
+2018-08-09 01:07:03,1e94db1611c3947fb4b9cc99324929a7,United States,Windows,Direct,0
+2018-08-09 01:08:53,7b3a21a33973a2a21dea68b8629a4cf7,United States,Android,Direct,0
+2018-08-09 01:09:37,b150398654ff021c2d5b9577ccd33d2c,United States,Windows,Direct,1
+2018-08-09 01:09:48,0f3aa820c224f675e2ae482a8b7da57a,United Kingdom,iOS,Direct,1
+2018-08-09 01:10:33,8459239ca74132f6cbca9e35e862c849,United States,Windows,Direct,0
+2018-08-09 01:10:41,5eb235adfa31be83fbb40df505037746,United States,iOS,Direct,0
+2018-08-09 01:11:20,311f31be36fd9cb507e39f1458320b9c,United States,Android,Direct,0
+2018-08-09 01:11:43,310ee6574b61260557f07c353f23f1b3,United States,iOS,Direct,0
+2018-08-09 01:12:07,8fd4015b4cb098ccd4d58d26691ab192,United States,iOS,Direct,0
+2018-08-09 01:13:24,8d18aa33c711055468755487c6548511,United States,Windows,Direct,0
+2018-08-09 01:13:52,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:13:59,8459239ca74132f6cbca9e35e862c849,United States,Windows,Direct,0
+2018-08-09 01:14:02,91a30f9a180eae450df7bd89e81e7454,United States,Windows,Direct,1
+2018-08-09 01:14:04,8d3a69229b2d4e283ec533bbf057c390,United States,Android,Direct,1
+2018-08-09 01:14:05,cde226834db7881c9221d2e3ea33b29c,United States,iOS,Direct,1
+2018-08-09 01:14:10,65e21fd3c788cf401b743786b0028d2c,United States,iOS,Direct,0
+2018-08-09 01:14:20,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 01:14:36,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,1
+2018-08-09 01:14:56,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:15:08,2e04304721463b410320f42cc8c07d02,United States,Windows,Direct,0
+2018-08-09 01:15:33,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:15:51,ead984685b2d54caa274d8026f33d338,United States,Mac,Direct,0
+2018-08-09 01:16:05,bedee6e6d8d5dc0dc235a8e82a45dbf6,United States,Windows,Direct,0
+2018-08-09 01:16:27,5139c8b6086825e1f9bf11c31584982a,United States,iOS,Direct,0
+2018-08-09 01:16:48,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,1
+2018-08-09 01:17:09,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 01:17:13,13f0905d6c3faf938b6783baaf87b9d1,United States,Mac,Direct,0
+2018-08-09 01:17:39,6fbaee4b74f1811b6d2beedc6b4b3924,United States,iOS,Direct,0
+2018-08-09 01:17:51,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 01:19:11,e19e6ac8fd98976299fa11a5184f2f8d,United States,Windows,Direct,1
+2018-08-09 01:19:12,10a3722c3d0a9b62740d2348b5280213,United States,Android,Direct,0
+2018-08-09 01:19:28,3b0f51613bf2698fa585474267520c65,United States,iOS,Direct,0
+2018-08-09 01:21:20,a4f73d907bf9677f4deb1376dbf9e333,United States,Android,Direct,0
+2018-08-09 01:21:43,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 01:22:18,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,0
+2018-08-09 01:22:37,0c15b7929568e564e357aabf04df3b0f,United States,Mac,Direct,1
+2018-08-09 01:23:12,7b3a21a33973a2a21dea68b8629a4cf7,United States,iOS,Direct,0
+2018-08-09 01:23:25,95864664247daf0ccfb01a9c71d42b3d,United States,Windows,Direct,0
+2018-08-09 01:23:38,9dc321048e775d9017e3015eeb8466fd,United States,iOS,Direct,0
+2018-08-09 01:23:45,1f32a899734e8c710fe65b83d913ca16,United States,Mac,Direct,0
+2018-08-09 01:24:01,046d77f1f69b9d248e15d70a611fcc1d,United States,Mac,Direct,0
+2018-08-09 01:24:12,6a823d51d7f3e48c46c89cf3f6cba068,United States,Windows,Direct,1
+2018-08-09 01:24:30,cde226834db7881c9221d2e3ea33b29c,United States,iOS,Direct,0
+2018-08-09 01:24:34,6abe0d238fb403ad47579cd76d2ebdb3,United States,Mac,Direct,0
+2018-08-09 01:24:36,473618e6b72b6d0e6dabdf15ce4ca1b2,United States,iOS,Direct,0
+2018-08-09 01:25:04,1af587f89d140017ddc27c3671462a60,United States,iOS,Direct,0
+2018-08-09 01:25:14,9dc321048e775d9017e3015eeb8466fd,United States,iOS,Direct,0
+2018-08-09 01:25:19,0138d6aadff0f0e49f57b2345cf6b5ee,United States,Mac,Direct,0
+2018-08-09 01:25:31,1c35e8cdf9cab0eec502c73826d7538e,United States,iOS,Direct,0
+2018-08-09 01:25:38,e1e9fc00dbe4d95962c7db80095fa9ca,Australia,Windows,Direct,1
+2018-08-09 01:25:46,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,1
+2018-08-09 01:26:05,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 01:26:30,de698fd689f092c52e20066704c5876d,United States,Windows,Direct,1
+2018-08-09 01:26:51,913c8d371ff4db47fc3f26f724e390d8,United States,iOS,Direct,0
+2018-08-09 01:27:34,10a3722c3d0a9b62740d2348b5280213,United States,iOS,Direct,0
+2018-08-09 01:27:34,cde226834db7881c9221d2e3ea33b29c,Ireland,iOS,Direct,0
+2018-08-09 01:27:44,11476a1dfd0a33a5fa66676db00b39d9,United States,Android,Direct,1
+2018-08-09 01:27:48,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 01:28:51,4173b7447f752ccdbb412e199c530f16,United States,Windows,Direct,0
+2018-08-09 01:29:08,bedee6e6d8d5dc0dc235a8e82a45dbf6,United States,iOS,Direct,0
+2018-08-09 01:29:11,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,1
+2018-08-09 01:29:21,dac6b085715cb0773d36d4d926e9380f,United States,iOS,Direct,0
+2018-08-09 01:29:51,0c15b7929568e564e357aabf04df3b0f,United States,Android,Direct,0
+2018-08-09 01:30:12,3fa25e38f90b94cefb8cebe0d2f2b510,United States,Windows,Direct,0
+2018-08-09 01:30:29,bd849961b46c2be73bd9f684eda772d5,United States,Linux,Direct,0
+2018-08-09 01:30:32,5574ae0e3bac097bf062e2a13a7f19a6,United States,Linux,Direct,0
+2018-08-09 01:30:39,4d5bd45436238c570b373fdc6371ddc4,United States,iOS,Direct,0
+2018-08-09 01:30:53,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,1
+2018-08-09 01:31:18,463d76b98f652da7a7d88ba17a91de13,United States,Windows,Direct,0
+2018-08-09 01:31:30,9f0f0f678b0970e3f8d6e169f43d2dfa,United States,Linux,Direct,0
+2018-08-09 01:31:31,2e04304721463b410320f42cc8c07d02,United States,Mac,Direct,0
+2018-08-09 01:31:54,bcb34c4d2924771aae0d325c90e8f638,United States,iOS,Direct,0
+2018-08-09 01:32:56,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,1
+2018-08-09 01:33:28,82a26ed2c2fe6103bfc30dac5ac5df7b,United States,Mac,Direct,0
+2018-08-09 01:33:49,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 01:33:54,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,0
+2018-08-09 01:34:29,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:34:44,046d77f1f69b9d248e15d70a611fcc1d,United States,Mac,Direct,0
+2018-08-09 01:34:45,4a4c1fd51a8fd21d0b02143756d92324,United States,Mac,Direct,0
+2018-08-09 01:34:46,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 01:34:57,1a03511c10e996dc0daa2c6c92c8ebb2,United States,Windows,Direct,0
+2018-08-09 01:35:04,08b6ca2fd8521c627fdb470047867124,United States,Mac,Direct,1
+2018-08-09 01:35:45,2e04304721463b410320f42cc8c07d02,United States,Android,Direct,1
+2018-08-09 01:35:59,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:36:02,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,Mac,Direct,0
+2018-08-09 01:36:19,7c16d2f66a5ea5095a7744f0f059bbb1,United States,Mac,Direct,0
+2018-08-09 01:36:25,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:36:44,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:36:46,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,Mac,Direct,0
+2018-08-09 01:38:11,b30d775bd0da866b909ecb3d8a98f557,United States,Windows,Direct,0
+2018-08-09 01:38:11,13f0905d6c3faf938b6783baaf87b9d1,United States,iOS,Direct,0
+2018-08-09 01:38:34,2c6a33debcc5b50dc8ca95b4e073461c,United States,Windows,Direct,0
+2018-08-09 01:38:42,288bd253e177e512c1b0723e2990ea12,United States,Mac,Direct,0
+2018-08-09 01:38:52,f260a376efa5b846ba68475cee813479,United States,iOS,Direct,0
+2018-08-09 01:39:01,e9ced58c226d8a680d5a14310af2622b,United States,Mac,Direct,0
+2018-08-09 01:39:11,14017c1ce5f976849fa116ec4692be3f,United States,Mac,Direct,1
+2018-08-09 01:39:20,c32b2eb712baf2dd4f1e8e9d7332b905,United States,Windows,Direct,0
+2018-08-09 01:39:39,6fbaee4b74f1811b6d2beedc6b4b3924,United States,iOS,Direct,0
+2018-08-09 01:39:59,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 01:40:02,ce028c1a1d66447b6d6943b16b4ad396,United States,Linux,Direct,0
+2018-08-09 01:40:04,34f7be649ffa959a00ae5338818bac36,United States,Mac,Direct,1
+2018-08-09 01:40:19,5139c8b6086825e1f9bf11c31584982a,United States,iOS,Direct,0
+2018-08-09 01:40:37,ace52fb7fbf069332795f1dd085345a4,United States,Mac,Direct,0
+2018-08-09 01:40:51,a3fdbc6441c1cf3b2d5d821d61298c75,United States,Mac,Direct,0
+2018-08-09 01:40:53,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 01:41:06,8e5282bf7a89cb91f0ebf38cb563055c,United States,iOS,Direct,0
+2018-08-09 01:41:10,613f65a4defe7983152b032066485a7b,Mexico,Windows,Direct,0
+2018-08-09 01:42:31,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,0
+2018-08-09 01:42:40,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 01:42:53,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 01:43:14,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 01:43:20,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 01:43:20,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 01:43:29,850fbd1f5d7930fa29b5d9238c987e91,Philippines,Windows,Direct,0
+2018-08-09 01:43:47,1979a15aa0107712753a2d6b9b22a255,United States,Windows,Direct,1
+2018-08-09 01:44:16,b05a7f53713a50af26dfd620a6048223,United States,Mac,Direct,0
+2018-08-09 01:44:27,11476a1dfd0a33a5fa66676db00b39d9,United States,Windows,Direct,0
+2018-08-09 01:44:50,8da525503c419eecaaf4ffbf347baefa,India,Android,Direct,0
+2018-08-09 01:44:52,37731c62f89d510430e100b878abfc8d,United States,Windows,Direct,0
+2018-08-09 01:45:03,7f5d1a2a861fbc2ad2ea74e458c7efce,United States,Windows,Direct,1
+2018-08-09 01:45:06,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 01:45:25,9f0f0f678b0970e3f8d6e169f43d2dfa,Canada,Windows,Direct,0
+2018-08-09 01:45:32,4c8359ba626712696a8c532a44510233,United States,iOS,Direct,0
+2018-08-09 01:45:35,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 01:45:40,5aebf912408685d60b49e90fc8c53343,United States,iOS,Direct,0
+2018-08-09 01:45:58,62497e2e2a6d01703ea31bfde42d4fb7,United States,Windows,Direct,1
+2018-08-09 01:46:22,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 01:47:10,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,1
+2018-08-09 01:47:33,4a2858fd09b440212ee8873682acbd07,United States,Linux,Direct,0
+2018-08-09 01:47:45,d60e35690aaf4011b6343e1bac64ca94,United States,iOS,Direct,0
+2018-08-09 01:47:55,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 01:48:07,edcd5c5dcdb7bb918457fddb755e6090,United States,Windows,Direct,0
+2018-08-09 01:48:09,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,0
+2018-08-09 01:48:21,e58a951e2f55133adfa78e0336fd4b08,Philippines,Windows,Direct,0
+2018-08-09 01:48:26,8d18aa33c711055468755487c6548511,United States,iOS,Direct,1
+2018-08-09 01:48:39,c8b5cbf4dd16f93f112d5cd9f40177c7,United States,Windows,Direct,0
+2018-08-09 01:48:42,5eb235adfa31be83fbb40df505037746,United States,Windows,Direct,0
+2018-08-09 01:49:00,7146cb08e94b91cbdb0f5e16588cc60d,United States,Windows,Direct,0
+2018-08-09 01:49:12,71bd74ee473867ae99fe16692acd2272,United States,Windows,Direct,0
+2018-08-09 01:49:29,2085763b29e22a64cd7cbc070280da54,United States,Windows,Direct,1
+2018-08-09 01:49:31,8ab337985dfc9e8d126e39a1b6a53b4d,United States,Windows,Direct,1
+2018-08-09 01:50:08,b05a7f53713a50af26dfd620a6048223,United States,Windows,Direct,0
+2018-08-09 01:50:46,f260a376efa5b846ba68475cee813479,United States,Windows,Direct,0
+2018-08-09 01:50:55,6097a98955a59d0c832fe45d611ec35d,United States,Android,Direct,0
+2018-08-09 01:50:59,b9f7e9f88f52e83b1d1745baf7817e00,United States,Windows,Direct,0
+2018-08-09 01:51:18,9dc321048e775d9017e3015eeb8466fd,United States,iOS,Direct,0
+2018-08-09 01:51:23,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 01:51:24,b178ac94589f89661674816899a431e6,Philippines,Windows,Direct,0
+2018-08-09 01:51:38,934fb10f8b2cf1d58d5340c2b588eb75,United States,Windows,Direct,0
+2018-08-09 01:52:01,913c8d371ff4db47fc3f26f724e390d8,United States,iOS,Direct,0
+2018-08-09 01:52:25,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,0
+2018-08-09 01:52:26,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,0
+2018-08-09 01:52:28,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 01:52:45,421a307e454ecc516d475be3183edf86,United States,iOS,Direct,1
+2018-08-09 01:52:48,fe6fd29766ccaee506ebd65305ff5bac,United States,Android,Direct,1
+2018-08-09 01:52:50,e466e376680fbb6d0c558ca3dd8bcfa2,United States,iOS,Direct,0
+2018-08-09 01:52:57,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 01:53:24,8d18aa33c711055468755487c6548511,United States,iOS,Direct,0
+2018-08-09 01:54:04,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:54:34,30d835ba5bae1a930845735fb3f273af,United States,iOS,Direct,0
+2018-08-09 01:55:02,ed67b5d36f6b6e8b8f9b8777a3cfef5f,United States,iOS,Direct,0
+2018-08-09 01:55:21,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:55:42,e1e9fc00dbe4d95962c7db80095fa9ca,United States,Windows,Direct,1
+2018-08-09 01:55:53,b30d775bd0da866b909ecb3d8a98f557,United States,iOS,Direct,1
+2018-08-09 01:56:00,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:56:01,46cabd7687053218ff49ffb9f816d20f,Ecuador,Windows,Direct,0
+2018-08-09 01:56:39,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,0
+2018-08-09 01:57:26,11476a1dfd0a33a5fa66676db00b39d9,United States,iOS,Direct,1
+2018-08-09 01:58:00,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,iOS,Direct,0
+2018-08-09 01:58:33,33274c7f8a546a5f987ae9c26e72686f,United States,iOS,Direct,1
+2018-08-09 01:58:49,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 01:58:50,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 01:59:43,8fd4015b4cb098ccd4d58d26691ab192,United States,Windows,Direct,0
+2018-08-09 02:00:07,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 02:00:33,5aebf912408685d60b49e90fc8c53343,United States,Windows,Direct,0
+2018-08-09 02:00:38,556365f9c7b8bcd3164f124f11e342ee,United States,Windows,Direct,1
+2018-08-09 02:00:51,e064fc78f671f93c02e1e57f4546c34a,United States,Windows,Direct,0
+2018-08-09 02:00:56,b47fc32c3970b004168ac50337e31176,United States,Android,Direct,0
+2018-08-09 02:01:05,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,1
+2018-08-09 02:01:12,60f8e52f2f6968aaf0d96178e458eee0,United States,Windows,Direct,0
+2018-08-09 02:01:33,a90d069ac0d2876596ea4240d64d731c,United States,iOS,Direct,0
+2018-08-09 02:01:47,d60e35690aaf4011b6343e1bac64ca94,United States,Android,Direct,0
+2018-08-09 02:01:50,881625da6e9bde70dcc082c5da5c7629,United States,Mac,Direct,0
+2018-08-09 02:02:04,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:02:32,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,1
+2018-08-09 02:02:38,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:02:39,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 02:02:40,913c8d371ff4db47fc3f26f724e390d8,United States,Windows,Direct,0
+2018-08-09 02:02:48,6b4625b3f111741141324132b7c8d630,United States,Android,Direct,0
+2018-08-09 02:02:49,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,1
+2018-08-09 02:03:14,557e137ec1c2588e863406c3a170d417,Ireland,iOS,Direct,0
+2018-08-09 02:03:22,0c15b7929568e564e357aabf04df3b0f,United States,Windows,Direct,0
+2018-08-09 02:03:32,1f32a899734e8c710fe65b83d913ca16,United States,Android,Direct,0
+2018-08-09 02:03:55,421a307e454ecc516d475be3183edf86,United States,Windows,Direct,0
+2018-08-09 02:04:04,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 02:04:09,2e04304721463b410320f42cc8c07d02,United States,Android,Direct,1
+2018-08-09 02:04:15,b0eb10f0efc0c1ec60c843c907712065,United States,Windows,Direct,0
+2018-08-09 02:04:23,74e708ae946785a5f0b52f7c5941f5a8,Canada,Windows,Direct,1
+2018-08-09 02:04:30,827c418ffc339d01ef624932db45b965,United States,Linux,Direct,1
+2018-08-09 02:04:30,05dc0bad788f12547b3751f3f3415a5a,United States,Linux,Direct,0
+2018-08-09 02:04:41,88397e904262219cb91742c512cb1ec6,United States,Windows,Direct,1
+2018-08-09 02:04:51,8d18aa33c711055468755487c6548511,United States,Windows,Direct,0
+2018-08-09 02:04:58,421a307e454ecc516d475be3183edf86,United States,Android,Direct,0
+2018-08-09 02:05:15,288bd253e177e512c1b0723e2990ea12,United States,Windows,Direct,0
+2018-08-09 02:05:25,7b3a21a33973a2a21dea68b8629a4cf7,United States,iOS,Direct,0
+2018-08-09 02:05:30,a7f59e8171c3fcd8d5dd284f2a1975d2,United States,Android,Direct,0
+2018-08-09 02:05:32,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 02:05:36,6abc235bd9062305e8f3271dd7c7d600,United States,Windows,Direct,0
+2018-08-09 02:05:47,1c86379ec9f25b72b745f18635a281f6,United States,Windows,Direct,0
+2018-08-09 02:05:51,df9c6637da9c0caccb53663ed6944c9c,United States,Windows,Direct,1
+2018-08-09 02:06:02,9ac8ffa505f70a457580cacd3565d587,United States,Chrome OS,Direct,1
+2018-08-09 02:06:24,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,0
+2018-08-09 02:06:38,4c8359ba626712696a8c532a44510233,United States,Windows,Direct,0
+2018-08-09 02:06:58,2e04304721463b410320f42cc8c07d02,United States,iOS,Direct,1
+2018-08-09 02:08:13,2053e0b452a5489973888dfc822d53cc,United States,iOS,Direct,1
+2018-08-09 02:08:22,7c16d2f66a5ea5095a7744f0f059bbb1,United States,Windows,Direct,0
+2018-08-09 02:08:25,613f65a4defe7983152b032066485a7b,United States,iOS,Direct,0
+2018-08-09 02:08:59,52d98cf53485c9f5b16c4eb80c2e63f2,United States,Windows,Direct,0
+2018-08-09 02:09:21,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 02:09:38,d022d4f9ab11d96371aad4195c2653b5,United States,Windows,Direct,0
+2018-08-09 02:09:39,0d9cfda1373e186d81a6ca8be6924544,United States,iOS,Direct,0
+2018-08-09 02:09:45,10a3722c3d0a9b62740d2348b5280213,United States,Windows,Direct,0
+2018-08-09 02:10:06,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,1
+2018-08-09 02:10:12,b75dcd82695dcc0e20700e40947c7743,United States,iOS,Direct,1
+2018-08-09 02:10:20,ae395e9128dd60a749ba537cec786d6a,United States,Windows,Direct,0
+2018-08-09 02:10:36,de698fd689f092c52e20066704c5876d,United States,Mac,Direct,0
+2018-08-09 02:10:40,b6d46d804a039aa1d4819fed129a634a,United States,Windows,Direct,0
+2018-08-09 02:10:41,ed67b5d36f6b6e8b8f9b8777a3cfef5f,United States,Android,Direct,0
+2018-08-09 02:10:44,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,1
+2018-08-09 02:10:45,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 02:10:47,6b4625b3f111741141324132b7c8d630,Ireland,iOS,Direct,1
+2018-08-09 02:11:05,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,0
+2018-08-09 02:11:37,7c7b731244071b9328b4f9b8718a72d5,United States,Windows,Direct,0
+2018-08-09 02:12:03,613f65a4defe7983152b032066485a7b,United States,Mac,Direct,0
+2018-08-09 02:12:18,b05a7f53713a50af26dfd620a6048223,United States,iOS,Direct,0
+2018-08-09 02:12:26,d60e35690aaf4011b6343e1bac64ca94,United States,iOS,Direct,0
+2018-08-09 02:12:33,9f9367d891e1c90c0b0a381f0cd62120,United States,Mac,Direct,0
+2018-08-09 02:12:53,95864664247daf0ccfb01a9c71d42b3d,Canada,Windows,Direct,0
+2018-08-09 02:13:05,b6d46d804a039aa1d4819fed129a634a,United States,Windows,Direct,1
+2018-08-09 02:13:16,7949d60e4f7ff063a0f3b1e28a24d8ab,Australia,Windows,Direct,0
+2018-08-09 02:13:24,d257f63607551a07ecfc34011305bcd0,Australia,Windows,Direct,1
+2018-08-09 02:13:45,613f65a4defe7983152b032066485a7b,United States,Windows,Direct,1
+2018-08-09 02:13:53,7c7b731244071b9328b4f9b8718a72d5,United States,iOS,Direct,0
+2018-08-09 02:13:54,2b7a1f6b461a24627ac6e75625bdfabf,United States,Windows,Direct,0
+2018-08-09 02:13:58,c694099e5f0cc114b0ffd861a6ea97cc,Philippines,Windows,Direct,0
+2018-08-09 02:14:06,e58a951e2f55133adfa78e0336fd4b08,Philippines,Windows,Direct,0
+2018-08-09 02:14:20,994359af0586eb44b1be4d8cbd117abe,Philippines,Windows,Direct,0
+2018-08-09 02:14:22,b6d46d804a039aa1d4819fed129a634a,United States,Windows,Direct,0
+2018-08-09 02:14:48,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 02:15:03,b2a95dc23f88bad2b20c5dd424ebcd4b,United States,Windows,Direct,0
+2018-08-09 02:15:03,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 02:15:12,850fbd1f5d7930fa29b5d9238c987e91,Philippines,Windows,Direct,0
+2018-08-09 02:15:17,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,0
+2018-08-09 02:15:42,b7cc5b4854052e8840ecfe66dfb2a594,United States,iOS,Direct,1
+2018-08-09 02:15:43,6fff378afada6265673c4e77cdd7be09,Philippines,iOS,Direct,1
+2018-08-09 02:15:43,6b4625b3f111741141324132b7c8d630,United States,Windows,Direct,0
+2018-08-09 02:15:47,6b4625b3f111741141324132b7c8d630,Ireland,iOS,Direct,0
+2018-08-09 02:15:48,6b4625b3f111741141324132b7c8d630,Ireland,Windows,Direct,0
+2018-08-09 02:15:48,994359af0586eb44b1be4d8cbd117abe,Philippines,Windows,Direct,0
+2018-08-09 02:15:56,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 02:15:56,6b4625b3f111741141324132b7c8d630,United States,iOS,Direct,0
+2018-08-09 02:15:56,3ddc364f00e0ab35b0031bdb85600a40,United States,iOS,Direct,0
+2018-08-09 02:16:02,36df1ed17aca5cf9d7d79c65dd84d050,Philippines,Windows,Direct,0
+2018-08-09 02:16:10,994359af0586eb44b1be4d8cbd117abe,Philippines,Windows,Direct,0
+2018-08-09 02:16:12,b62b0387d095e4e75f7015175bb1edc0,United States,Windows,Direct,0
+2018-08-09 02:16:16,dbcf5834deb5c67933ed6069f4e924a3,Philippines,Windows,Direct,0
+2018-08-09 02:16:23,0c15b7929568e564e357aabf04df3b0f,United States,iOS,Direct,1
+2018-08-09 02:17:13,850fbd1f5d7930fa29b5d9238c987e91,Philippines,Windows,Direct,1
+2018-08-09 02:17:21,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,0
+2018-08-09 02:17:22,b47fc32c3970b004168ac50337e31176,United States,iOS,Direct,0
+2018-08-09 02:17:27,90efab1fe6e411601e1abb188d08d16b,Philippines,Windows,Direct,0
+2018-08-09 02:17:42,e58a951e2f55133adfa78e0336fd4b08,Philippines,Windows,Direct,0
+2018-08-09 02:17:45,2984514f9d1f11fdf522ea9e54d396a2,United States,Windows,Direct,0
+2018-08-09 02:17:51,db76c67aec3312a8a54b4700f1200215,United States,Mac,Direct,0
+2018-08-09 02:18:18,17d113b63b4fc347da563ab3fd1f37c2,United States,Android,Direct,0
